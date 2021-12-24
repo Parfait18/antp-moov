@@ -1,0 +1,387 @@
+[{
+        "id": 1,
+        "departement": "ALIBORI",
+        "nom_commune": "Banikoara"
+    },
+    {
+        "id": 2,
+        "departement": "ALIBORI",
+        "nom_commune": "Gogonou"
+    },
+    {
+        "id": 3,
+        "departement": "ALIBORI",
+        "nom_commune": "Kandi"
+    },
+    {
+        "id": 4,
+        "departement": "ALIBORI",
+        "nom_commune": "Karimama"
+    },
+    {
+        "id": 5,
+        "departement": "ALIBORI",
+        "nom_commune": "Malanville"
+    },
+    {
+        "id": 6,
+        "departement": "ALIBORI",
+        "nom_commune": "Ségbana"
+    },
+    {
+        "id": 7,
+        "departement": "ATACORA",
+        "nom_commune": "Boukoumbé"
+    },
+    {
+        "id": 8,
+        "departement": "ATACORA",
+        "nom_commune": "Cobli"
+    },
+    {
+        "id": 9,
+        "departement": "ATACORA",
+        "nom_commune": "Kérou"
+    },
+    {
+        "id": 10,
+        "departement": "ATACORA",
+        "nom_commune": "Kouandé"
+    },
+    {
+        "id": 11,
+        "departement": "ATACORA",
+        "nom_commune": "Matéri"
+    },
+    {
+        "id": 12,
+        "departement": "ATACORA",
+        "nom_commune": "Natitingou"
+    },
+    {
+        "id": 13,
+        "departement": "ATACORA",
+        "nom_commune": "Péhunco"
+    },
+    {
+        "id": 14,
+        "departement": "ATACORA",
+        "nom_commune": "Tanguiéta"
+    },
+    {
+        "id": 15,
+        "departement": "ATACORA",
+        "nom_commune": "Toukountouna"
+    },
+    {
+        "id": 16,
+        "departement": "ATLANTIQUE",
+        "nom_commune": "Abomey-Calavi"
+    },
+    {
+        "id": 17,
+        "departement": "ATLANTIQUE",
+        "nom_commune": "Allada"
+    },
+    {
+        "id": 18,
+        "departement": "ATLANTIQUE",
+        "nom_commune": "Kpomassè"
+    },
+    {
+        "id": 19,
+        "departement": "ATLANTIQUE",
+        "nom_commune": "Ouidah"
+    },
+    {
+        "id": 20,
+        "departement": "ATLANTIQUE",
+        "nom_commune": "Sô-Ava"
+    },
+    {
+        "id": 21,
+        "departement": "ATLANTIQUE",
+        "nom_commune": "Toffo"
+    },
+    {
+        "id": 22,
+        "departement": "ATLANTIQUE",
+        "nom_commune": "Tori"
+    },
+    {
+        "id": 23,
+        "departement": "ATLANTIQUE",
+        "nom_commune": "Zê"
+    },
+    {
+        "id": 24,
+        "departement": "BORGOU",
+        "nom_commune": "Bembèrèkè"
+    },
+    {
+        "id": 25,
+        "departement": "BORGOU",
+        "nom_commune": "Kalalé"
+    },
+    {
+        "id": 26,
+        "departement": "BORGOU",
+        "nom_commune": "N’Dali"
+    },
+    {
+        "id": 27,
+        "departement": "BORGOU",
+        "nom_commune": "Nikki"
+    },
+    {
+        "id": 28,
+        "departement": "BORGOU",
+        "nom_commune": "Parakou"
+    },
+    {
+        "id": 29,
+        "departement": "BORGOU",
+        "nom_commune": "Pèrèrè"
+    },
+    {
+        "id": 30,
+        "departement": "BORGOU",
+        "nom_commune": "Sinendé"
+    },
+    {
+        "id": 31,
+        "departement": "BORGOU",
+        "nom_commune": "Tchaourou"
+    },
+    {
+        "id": 32,
+        "departement": "COLLINES",
+        "nom_commune": "Bantè"
+    },
+    {
+        "id": 33,
+        "departement": "COLLINES",
+        "nom_commune": "Dassa-Zoumè"
+    },
+    {
+        "id": 34,
+        "departement": "COLLINES",
+        "nom_commune": "Glazoué"
+    },
+    {
+        "id": 35,
+        "departement": "COLLINES",
+        "nom_commune": "Ouessè"
+    },
+    {
+        "id": 36,
+        "departement": "COLLINES",
+        "nom_commune": "Savalou"
+    },
+    {
+        "id": 37,
+        "departement": "COLLINES",
+        "nom_commune": "Savè"
+    },
+    {
+        "id": 38,
+        "departement": "COUFFO",
+        "nom_commune": "Aplahoué"
+    },
+    {
+        "id": 39,
+        "departement": "COUFFO",
+        "nom_commune": "Djakotomey"
+    },
+    {
+        "id": 40,
+        "departement": "COUFFO",
+        "nom_commune": "Dogbo"
+    },
+    {
+        "id": 41,
+        "departement": "COUFFO",
+        "nom_commune": "Klouékanmey"
+    },
+    {
+        "id": 42,
+        "departement": "COUFFO",
+        "nom_commune": "Lalo"
+    },
+    {
+        "id": 43,
+        "departement": "COUFFO",
+        "nom_commune": "Toviklin"
+    },
+    {
+        "id": 44,
+        "departement": "DONGA",
+        "nom_commune": "Bassila"
+    },
+    {
+        "id": 45,
+        "departement": "DONGA",
+        "nom_commune": "Copargo"
+    },
+    {
+        "id": 46,
+        "departement": "DONGA",
+        "nom_commune": "Djougou"
+    },
+    {
+        "id": 47,
+        "departement": "DONGA",
+        "nom_commune": "Ouaké"
+    },
+    {
+        "id": 48,
+        "departement": "LITTORAL",
+        "nom_commune": "Cotonou"
+    },
+    {
+        "id": 49,
+        "departement": "MONO",
+        "nom_commune": "Athiémé"
+    },
+    {
+        "id": 50,
+        "departement": "MONO",
+        "nom_commune": "Bopa"
+    },
+    {
+        "id": 51,
+        "departement": "MONO",
+        "nom_commune": "Comè"
+    },
+    {
+        "id": 52,
+        "departement": "MONO",
+        "nom_commune": "Grand-Popo"
+    },
+    {
+        "id": 53,
+        "departement": "MONO",
+        "nom_commune": "Houéyogbé"
+    },
+    {
+        "id": 54,
+        "departement": "MONO",
+        "nom_commune": "Lokossa"
+    },
+    {
+        "id": 55,
+        "departement": "OUEME",
+        "nom_commune": "Adjarra"
+    },
+    {
+        "id": 56,
+        "departement": "OUEME",
+        "nom_commune": "Adjohoun"
+    },
+    {
+        "id": 57,
+        "departement": "OUEME",
+        "nom_commune": "Aguégués"
+    },
+    {
+        "id": 58,
+        "departement": "OUEME",
+        "nom_commune": "Akpro-Missérété"
+    },
+    {
+        "id": 59,
+        "departement": "OUEME",
+        "nom_commune": "Avrankou"
+    },
+    {
+        "id": 60,
+        "departement": "OUEME",
+        "nom_commune": "Bonou"
+    },
+    {
+        "id": 61,
+        "departement": "OUEME",
+        "nom_commune": "Dangbo"
+    },
+    {
+        "id": 62,
+        "departement": "OUEME",
+        "nom_commune": "Porto-Novo"
+    },
+    {
+        "id": 63,
+        "departement": "PLATEAU",
+        "nom_commune": "Sèmè-Podji"
+    },
+    {
+        "id": 64,
+        "departement": "PLATEAU",
+        "nom_commune": "Adja-ouèrè"
+    },
+    {
+        "id": 65,
+        "departement": "PLATEAU",
+        "nom_commune": "Ifangni"
+    },
+    {
+        "id": 66,
+        "departement": "PLATEAU",
+        "nom_commune": "Kétou"
+    },
+    {
+        "id": 67,
+        "departement": "PLATEAU",
+        "nom_commune": "Pobè"
+    },
+    {
+        "id": 68,
+        "departement": "PLATEAU",
+        "nom_commune": "Sakété"
+    },
+    {
+        "id": 69,
+        "departement": "ZOU",
+        "nom_commune": "Abomey"
+    },
+    {
+        "id": 70,
+        "departement": "ZOU",
+        "nom_commune": "Agbangnizoun"
+    },
+    {
+        "id": 71,
+        "departement": "ZOU",
+        "nom_commune": "Bohicon"
+    },
+    {
+        "id": 72,
+        "departement": "ZOU",
+        "nom_commune": "Covè"
+    },
+    {
+        "id": 73,
+        "departement": "ZOU",
+        "nom_commune": "Djidja"
+    },
+    {
+        "id": 74,
+        "departement": "ZOU",
+        "nom_commune": "Ouinhi"
+    },
+    {
+        "id": 75,
+        "departement": "ZOU",
+        "nom_commune": "Zagnanado"
+    },
+    {
+        "id": 76,
+        "departement": "ZOU",
+        "nom_commune": "Za-kpota"
+    },
+    {
+        "id": 77,
+        "departement": "ZOU",
+        "nom_commune": "Zogbodomè"
+    }
+
+]
